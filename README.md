@@ -1,2 +1,2 @@
-# What is the programming
-Algorith + Data Structures = Programs
+# What is the programming?
+Algorithm + Data Structures = Programs
