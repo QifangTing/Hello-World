@@ -1,2 +1,2 @@
-# Hello-World
-Learn the C Programming Language
+# What is the programming
+Algorith + Data Structures = Programs
